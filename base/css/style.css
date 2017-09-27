@@ -31,3 +31,7 @@
     background-color: #ffc;
     clear: both;
 }
+
+#about #main{
+    width: 940px;
+}
